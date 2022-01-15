@@ -1,0 +1,21 @@
+/* meus estilos */
+body{
+    margin-left: 10px;
+    margin-right: 10px;
+
+    background-color: rgb(235, 227, 227);
+}
+
+h1, h2{
+    color: rgb(85, 83, 83);
+    text-align: center;
+}
+
+h3{
+    color: rgb(63, 128, 182);
+    border-bottom: 1px solid steelblue;
+}
+
+a{
+    text-decoration: none;
+}
